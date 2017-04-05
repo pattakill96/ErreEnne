@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/Gioco/Controller"/>
+	<classpathentry kind="src" path="src/Gioco/Model"/>
+	<classpathentry kind="src" path="src/Moderatore/Controller"/>
+	<classpathentry kind="src" path="src/Moderatore/Model"/>
+	<classpathentry kind="src" path="src/Utente/Controller"/>
+	<classpathentry kind="src" path="src/Utente/Model"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
